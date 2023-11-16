@@ -1,13 +1,14 @@
 body{
-    margin-left: 200px;
-    margin-top: 100px;
-    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: rgb(47, 186, 196);
 }
 
 button{
     padding: 20px;
     font-size: 30px;
+    margin-top: 100px;
     font-weight:bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 150px;
@@ -16,9 +17,7 @@ button{
     border: 1px solid #d9d9d9;
     background-color: hotpink;
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   
 
 }
 
